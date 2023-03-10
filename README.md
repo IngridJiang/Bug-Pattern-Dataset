@@ -1,2 +1,2 @@
 # Bug-Pattern-Dataset
-Dataset collecting by PHPH Tool an
+Dataset collecting by PHPH Tool 

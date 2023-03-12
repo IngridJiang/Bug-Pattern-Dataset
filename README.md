@@ -429,6 +429,11 @@ As an initial database, we only consider the part of Python-General-Purpose Mach
 
 
 ## About Sample of Database
+Randomly filter 100 data for each database by SQL statement and put the results in this repository.
+```SQL
+select * from patterns order by RANDOM()limit 100;
+```
+<br>
 
 ## About How to use Phph Browse Server to Check the Details
 If you need to extract Java project, please refer to read me.md of [phph]( https://github.com/salab/phph/).<br>
@@ -454,6 +459,7 @@ $ java -jar phph-all.jar find                                    # find pattern 
 $ java -jar phph-all.jar measure                                 # compute metric values
 ```
 <br>
+
 ### Browse Server
 ```
 $ java -jar phph-all.jar browse                                            

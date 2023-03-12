@@ -32,7 +32,7 @@ Link for the Tool:<br>
 [phph]( https://github.com/salab/phph/)<br>
 [phph for python]( https://github.com/salab/phph/tree/merge-durun-phph)<br>
 <br>
-Refenrence Paper：
+Reference Paper：
 [Ammonia: an approach for deriving project-specific bug patterns](https://link.springer.com/article/10.1007/s10664-020-09807-w)<br><br>
 <br>
 An Overview Figure to Show How Phph Works<br><br>

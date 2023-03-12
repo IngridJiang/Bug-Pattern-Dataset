@@ -8,7 +8,7 @@ Table of Contents
     * About Defination of Prenventive Specific Bug Patterns and tools<br>
     * About DataBase <br>
     * About Repository<br>
-    * About Threshold to check bug Patterns<br>
+    * About Threshold to Check Bug Patterns<br>
     * About Bugtype Classification<br>
     * About ML-related Judgement<br>
     * About Sample of Database<br>
@@ -138,7 +138,7 @@ By Iterative AI (creators of DVC). A tool to package, serve, and deploy any M
 
 
 
-## About Threshold to check bug Patterns
+## About Threshold to Check Bug Patterns
 According to the paper:Ammonia: an approach for deriving project-specific bug patterns,Change patterns that satisfy both the conditions remain.<br> <br>
 Condition-1: change patterns related to bug-fix commits. Commits in the repository of the target software projects can be classified into bug-fix commits and other commits such as functional enhancement or refactoring. <br> <br>
 Condition-2: change patterns whose before-texts are different from the before-texts of any other change patterns. We use only change patterns consisting of at least two changes and whose before-texts are different from the before-texts of all other change patterns.<br> <br>

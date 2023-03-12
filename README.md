@@ -264,8 +264,8 @@ By looking at code changes itself,we could judge the bug type.
 
 ## About ML-related Judgement
 
-ML-related value is got by investigating whether the instances of each BUG pattern are all related to machine learning. The criterion to determine whether it is related to machine learning is to check whether it imports machine learning llibraries. This requires a list of machine learning-related libraries.<br>
-About the list of ML libraries,we refers to [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).Thanks to all the contributers to this curated list of awesome Machine Learning frameworks, libraries and software and it is still keep updating.<br>
+ML-related value is got by investigating whether the instances of each BUG pattern are all related to machine learning. The criterion to determine whether it is related to machine learning is to check whether it imports machine learning libraries. This requires a list of machine learning-related libraries.<br>
+About the list of ML libraries,we refers to [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).Thanks to all the contributors to this curated list of awesome Machine Learning frameworks, libraries and software and it is still keep updating.<br>
 As an initial database, we only consider the part of Python-General-Purpose Machine Learning, and consider adding it if there are other needs.If all instances of each pattern import ML libraries, the mlrelated value of this pattern could be 1.<br>
 
 ### Python General-Purpose Machine Learning

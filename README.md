@@ -429,9 +429,9 @@ As an initial database, we only consider the part of Python-General-Purpose Mach
 
 
 ## About Sample of Database
-Randomly filter 100 data for each database by SQL statement and put the results in this repository.
+Randomly filter 300 data for each database and check the bug-fix ones whose ignore values equal 0 by SQL statement and put the results in this repository.
 ```SQL
-select * from patterns order by RANDOM()limit 100;
+select * from patterns order by RANDOM()limit 300;
 ```
 <br>
 

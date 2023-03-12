@@ -25,8 +25,8 @@ There are several objectives to software maintenance. One of those objectives is
 ∎ Typically, SA tools scan for general bug patterns that are common to any software project (such as null pointer dereference), and not for project specific patterns.
 However, past research has pointed to this lack of customizability as a severe limiting issue in SA.<br><br>
 ∎ A new approach called Ammonia, which is based on the methodology of SA identify changes across the development history of a project, as a means to identify project-specific bug patterns. They reflect the project as a whole and compliment the warnings from other SA tools that identify general bug patterns.<br><br>
-∎ A new approach called Ammonia, which is based on the methodology of SA identify changes across the development history of a project, as a means to identify project-specific bug patterns. They reflect the project as a whole and compliment the warnings from other SA tools that identify general bug patterns.<br><br>
-∎PHPH is an upgraded version of Ammonia, and compared to the previous one which mainly focused on extracting projects using JAVA language, it adds the ability to extract projects using python language, so that we can use it to analyze a large number of medium-sized projects in python language and machine learning projects.<br>
+
+∎PHPH is an upgraded version of Ammonia, and compared to the previous one which mainly focused on extracting projects using JAVA language, it adds the ability to extract projects using python language, so that we can use it to analyze a large number of medium-sized projects in python language and machine learning projects.<br><br>
 ∎ We use phph.And this is the preliminary results of applying phph to extract the bug pattern and the analysis of the results<br><br>
 Link for the Tool:<br>
 [phph]( https://github.com/salab/phph/)<br>

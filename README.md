@@ -5,7 +5,7 @@ the preliminary results of applying phph to extract the bug pattern and the anal
 
 Table of Contents
 <br><br>
-    * About Defination of Prenventive Specific Bug Patterns and tools<br>
+    * About Definition of Prenventive Specific Bug Patterns and tools<br>
     * About DataBase <br>
     * About Repository<br>
     * About Threshold to Check Bug Patterns<br>
@@ -18,7 +18,7 @@ Table of Contents
 
 
 <br><br>
-## About Defination of Prenventive Specific Bug Patterns and tools
+## About Definition of Prenventive Specific Bug Patterns and tools
 
 There are several objectives to software maintenance. One of those objectives is to make sure that bugs in software are fixed. During the software development, finding and fixing buggy code is always an important and cost-intensive maintenance task.<br><br>
 ∎ Nowadays many kinds of preventive and corrective measures exist to help software practitioners use to perform it. Static analysis (SA) is one of the preventive techniques developers use, which warn developers about potential bugs by scanning their source code for commonly occurring bug patterns before they release the software.<br><br>

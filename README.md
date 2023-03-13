@@ -37,7 +37,7 @@ Reference Paper：
 <br>
 An Overview Figure to Show How Phph Works<br><br>
 ![](https://github.com/IngridJiang/Bug-Pattern-Dataset/blob/main/An%20Overview%20Figure%20to%20Show%20How%20Phph%20Works.jpg) 
-<br><br>Database formation of every phases OF Phph<br>
+<br><br>Database formation of every phases of Phph<br>
 ![](https://github.com/IngridJiang/Bug-Pattern-Dataset/blob/main/Database%20Formation%20of%20Every%20Phases%20of%20Phph.jpg) 
 
 

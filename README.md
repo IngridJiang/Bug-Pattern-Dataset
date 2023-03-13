@@ -147,7 +147,7 @@ Condition-1: manually find bug-fix commits and only extract PSBPs from these com
 Condition-2: Concept: Confidence=1
              Real World not too strict threshold:Confidence>=0.90
 <br><br>
-In the process of extracting the bug pattern, it is recommended to use database tools such as SQLite p with it to reduce the workload and time spending, and the following is a simplified extraction process including some SQL statements.<br>
+In the process of extracting the bug pattern, it is recommended to use database tools such as SQLite with it to reduce the workload and time spending, and the following is a simplified extraction process including some SQL statements.<br>
 <br>
 
 Phase 1:Satisfy Condition-2<br>
